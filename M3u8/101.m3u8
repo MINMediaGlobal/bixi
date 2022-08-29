@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="es",NAME="Español",DEFAULT=YES,AUTOSELECT=YES,URI="https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2Faudio.m3u8?alt=media&token=7f1c061f-8e03-417b-ba2e-ed6cdf08d0cd"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="dubbing",NAME="Dubbing",DEFAULT=NO,AUTOSELECT=YES,URI="https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2Faudio.m3u8?alt=media&token=7f1c061f-8e03-417b-ba2e-ed6cdf08d0cd"
+
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2Faudio.m3u8?alt=media&token=7f1c061f-8e03-417b-ba2e-ed6cdf08d0cd",GROUP-ID="audio",NAME="ESPAÑOL",AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2",AUDIO="audio"
 https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2F720P.m3u8?alt=media&token=3e25e00a-d193-44ce-a5a2-c7dda1486eb0
